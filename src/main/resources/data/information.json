@@ -598,7 +598,7 @@
     "Url_Video": "https://www.youtube.com/watch?v=g-hPf4rDEO4",
     "caption": "Deep Bite (in Metal Cardbot Season 2 and 3)",
     "Quote": "\"I am Deep Bite, the Outlaw of the Sea!\"",
-    "Description": "Deep Bite is a new Cardbot in Metal Cardbot S. He is known on Planet Machina as the \"Outlaw of the Sea\" (바다의 무법자라는, Badaui Mubeobjalaneun) due to his bestial appearance, but is actually a gentle soul and is also a friend of Glober. As his appearance was accepted by Jun Grant, Blue Cop and Rock Crush while Red Blitz accepted him for his underwater abilities, Deep Bite volunteered to be sealed and joined the Cardbots. After the final battle for the Speranza, Deep Bite joined the Speranza crew to pay his debt for biting Gigantrex's head, and to search for the Organizer that fell into the lake.In Metal Cardbot W, it was revealed that Deep Bite is a Wild Cardbot carrier and the Beast Virus was the source of his tooth ailment, which lead to Soleil abducting him in Capture, but the latter chose to return him to Jun Grant in Again? The Mysterious Transfer Student.",
+    "Description": "Deep Bite is a new Cardbot in Metal Cardbot S. He is known on Planet Machina as the \"Outlaw of the Sea\" due to his bestial appearance, but is actually a gentle soul and is also a friend of Glober. As his appearance was accepted by Jun Grant, Blue Cop and Rock Crush while Red Blitz accepted him for his underwater abilities, Deep Bite volunteered to be sealed and joined the Cardbots. After the final battle for the Speranza, Deep Bite joined the Speranza crew to pay his debt for biting Gigantrex's head, and to search for the Organizer that fell into the lake.In Metal Cardbot W, it was revealed that Deep Bite is a Wild Cardbot carrier and the Beast Virus was the source of his tooth ailment, which lead to Soleil abducting him in Capture, but the latter chose to return him to Jun Grant in Again? The Mysterious Transfer Student.",
     "Description1": "The default weapon is only the Abyss Cannon. As for the weapon cards, there are Deep Trident with commands such as Beam Trident to shoot a high-pressure water stream, Trident Submarine to generate water at the Deep Trident's muzzle to create a water jet and throw it at the enemy, Trident Gatling to shoot a water jet like a machine gun, and Trident Cannon to shoot the Deep Trident's trident blade like a spear.",
     "category": "Robot",
     "language": "en"
@@ -610,7 +610,7 @@
     "Url_Video": "https://www.youtube.com/watch?v=g-hPf4rDEO4",
     "caption": "Deep Bite (dalam Metal Cardbot Season 2 dan 3)",
     "Quote": "\"Saya Deep Bite, Penjahat Laut!\"",
-    "Description": "Deep Bite adalah Cardbot baru di Metal Cardbot S. Ia dikenal di Planet Machina sebagai \" Penjahat Laut \" (바다의 무법자라는, Badaui Mubeobjalaneun ) karena penampilannya yang buas, tetapi sebenarnya berhati lembut dan juga merupakan teman Glober. Karena penampilannya diterima oleh Jun Grant, Blue Cop, dan Rock Crush, sementara Red Blitz menerimanya karena kemampuannya di bawah air, Deep Bite secara sukarela bersedia disegel dan bergabung dengan Cardbots. Setelah pertempuran terakhir untuk Speranza, Deep Bite bergabung dengan kru Speranza untuk membayar hutangnya karena menggigit kepala Gigantrex, dan untuk mencari Organizer yang jatuh ke danau.Dalam Metal Cardbot W, terungkap bahwa Deep Bite adalah pembawa Wild Cardbot dan Virus Binatang adalah sumber penyakit giginya, yang menyebabkan Soleil menculiknya dalam Capture, tetapi yang terakhir memilih untuk mengembalikannya kepada Jun Grant dalam Again? The Mysterious Transfer Student.",
+    "Description": "Deep Bite adalah Cardbot baru di Metal Cardbot S. Ia dikenal di Planet Machina sebagai \" Penjahat Laut \" karena penampilannya yang buas, tetapi sebenarnya berhati lembut dan juga merupakan teman Glober. Karena penampilannya diterima oleh Jun Grant, Blue Cop, dan Rock Crush, sementara Red Blitz menerimanya karena kemampuannya di bawah air, Deep Bite secara sukarela bersedia disegel dan bergabung dengan Cardbots. Setelah pertempuran terakhir untuk Speranza, Deep Bite bergabung dengan kru Speranza untuk membayar hutangnya karena menggigit kepala Gigantrex, dan untuk mencari Organizer yang jatuh ke danau.Dalam Metal Cardbot W, terungkap bahwa Deep Bite adalah pembawa Wild Cardbot dan Virus Binatang adalah sumber penyakit giginya, yang menyebabkan Soleil menculiknya dalam Capture, tetapi yang terakhir memilih untuk mengembalikannya kepada Jun Grant dalam Again? The Mysterious Transfer Student.",
     "Description1": "Persenjataan bawaan hanya Abyss Cannon. Sedangkan untuk kartu senjatanya adalah Deep Trident dengan jurus seperti Beam Trident untuk menembakkan aliran air bertekanan tinggi, Trident Submarine untuk menghasilkan air di moncong Deep Trident untuk menciptakan semburan air dan melemparkannya ke arah musuh, Trident Gatling untuk menembakkan semburan air seperti senapan mesin, dan Trident Cannon untuk menembakkan bilah trisula Deep Trident seperti tombak",
     "category": "Robot",
     "language": "id"
@@ -636,6 +636,24 @@
     "Quote": "\"Tahukah Anda berapa banyak kehidupan hutan yang dikorbankan karena manusia?!?!\"",
     "Description": "Dexter adalah seorang Metal Cardbot dalam Metal Cardbot. Karena ia sangat mencintai alam dan kehidupan, ia tidak kenal ampun terhadap manusia yang mencoba menghancurkan alam planet ini hingga ia menjadi lebih damai terhadap manusia setelah bergabung dengan Jun Grant.",
     "Description1": "Persenjataan bawaan hanya Excavator Arm, Sedangkan kartu senjatanya adalah Dexter Drill dengan jurus seperti Spear Thrust untuk menusuk lawan, Spiral Ray untuk menembak sinar kuat, dan Helix Sword sebagai tombak untuk menyerang",
+    "category": "Robot",
+    "language": "id"
+  },
+  {
+    "id": "Fion-en",
+    "name": "Fion",
+    "Image": "https://static.wikia.nocookie.net/metal-cardbot/images/9/97/Fion_profile.png/revision/latest?cb=20260709184606",
+    "caption": "Fion (in Metal Cardbot Season 3)",
+    "Description": "Fion was a Wild Cardbot and chieftain of Blaion's tribe the Soleon Tribe. In the final days of Machina's destruction, Fion entrusted Blaion both the Mark of the Sun and the orange Metal Breath before sacrificing himself to save the Wild Cardbots' future.",
+    "category": "Robot",
+    "language": "en"
+  },
+  {
+    "id": "Fion-id",
+    "name": "Fion",
+    "Image": "https://static.wikia.nocookie.net/metal-cardbot/images/9/97/Fion_profile.png/revision/latest?cb=20260709184606",
+    "caption": "Fion (dalam Metal Cardbot Season 3)",
+    "Description": "Fion adalah seorang Wild Cardbot dan kepala suku Blaion, yaitu Suku Soleon. Pada hari-hari terakhir kehancuran Machina , Fion mempercayakan Tanda Matahari dan Napas Logam berwarna oranye kepada Blaion sebelum mengorbankan dirinya untuk menyelamatkan masa depan Wild Cardbots.",
     "category": "Robot",
     "language": "id"
   },
@@ -1097,6 +1115,7 @@
     "id": "Tachy-en",
     "name": "Tachy",
     "Image": "https://static.wikia.nocookie.net/metal-cardbot/images/b/bf/Tachy_profile.png/revision/latest?cb=20260203194109",
+    "Url_Video": "https://youtu.be/c48MUHcxmZM?si=semrssaCz8T-QXeV",
     "caption": "Tachy (in Metal Cardbot Season 3)",
     "Description": "Tachy is one of the Wild Cardbots in Metal Cardbot W. She is known as the \"Speed Runner\" among the Wild Cardbots and is a member of a clan called the Rapid Tribe. At some point in the past, Tachy witnessed the Wild Cardbot Savannard slaying Tachyon, leading to Tachy wanting vengeance against the former. After learning the truth from Glober, Tachy attempted to fight the berserk Savannard and learned of him being possessed by the spirits of three Wild Cardbots, the source of his mental anguish, but was pushed aside by Heavy Iron W, who successfully defeated Savannard before leaving. Tachy soon left Jun and Soleil's group to follow Heavy Iron.",
     "Description1": "Her default weapon is only Cheetah Knuckles. While his weapon cards are Sonic Runner with moves such as Infinity Bumper to quickly surround the opponent to make them lose their balance while launching a series of consecutive attacks, Tachyon Storm which is an enhanced version of Infinity Bumper, and several moves that are not yet known because the series is still ongoing.",
@@ -1107,6 +1126,7 @@
     "id": "Tachy-id",
     "name": "Tachy",
     "Image": "https://static.wikia.nocookie.net/metal-cardbot/images/b/bf/Tachy_profile.png/revision/latest?cb=20260203194109",
+    "Url_Video": "https://youtu.be/c48MUHcxmZM?si=semrssaCz8T-QXeV",
     "caption": " (dalam Metal Cardbot Season 3)",
     "Description": "Tachy adalah salah satu Wild Cardbot di Metal Cardbot W. Dia dikenal sebagai \"Pelari Cepat\" di antara Wild Cardbot dan merupakan anggota klan bernama Rapid Tribe. Di masa lalu, Tachy menyaksikan Wild Cardbot Savannard membunuh Tachyon , yang menyebabkan Tachy ingin membalas dendam terhadap Savannard. Setelah mengetahui kebenaran dari Glober , Tachy mencoba melawan Savannard yang mengamuk dan mengetahui bahwa Savannard dirasuki oleh roh tiga Wild Cardbot, sumber penderitaan mentalnya, tetapi disingkirkan oleh Heavy Iron W , yang berhasil mengalahkan Savannard sebelum pergi. Tachy kemudian meninggalkan kelompok Jun dan Soleil untuk mengikuti Heavy Iron.",
     "Description1": "Persenjataan bawaan hanya Cheetah Knuckles. Sedangkan kartu senjatanya adalah Sonic Runner dengan jurus seperti Infinity Bumper untuk Mengelilingi lawan dengan cepat untuk membuat mereka kehilangan keseimbangan sambil melancarkan serangkaian serangan beruntun, Tachyon Storm yang merupakan versi disempurnakan dari Infinity Bumper, dan beberapa jurus yang belum diketahui karena serial masih berlangsung",
@@ -1223,7 +1243,7 @@
     "Image": "https://static.wikia.nocookie.net/metal-cardbot/images/e/ef/Ultimate_Blue_Cop_profile.png/revision/latest?cb=20241205010041",
     "Url_Video": "https://www.youtube.com/watch?v=llOE8fzrGD4",
     "caption": "Ultimate Blue Cop (in Metal Cardbot Season 1)",
-    "Description": "Ultimate Blue Cop is a form of Blue Cop when using the forbidden power of a metal breath apparatus, allowing Blue Cop to gain greater strength through the combined power of sealed cardbots. However, Ultimate Blue Cop only debuted in one episode before being replaced by Blue Cop Trinity in season 2.",
+    "Description": "Ultimate Blue Cop was a form of Blue Cop when using the forbidden power of a metal breath apparatus, allowing Blue Cop to gain greater strength through the combined power of sealed cardbots. However, Ultimate Blue Cop only debuted in one episode before being replaced by Blue Cop Trinity in season 2.",
     "Description1": "Because this is an upgrade with the help of forbidden power, it does not have any default weapons. Meanwhile, the weapon card is Ultimate Armor with combined moves from sealed cardbots such as Mega Power Shield (Mega Trucker), Spear Thrust (Dexter), Captain's Cannon (Black Hook), Wild Raid (Wild Guardy), Twin Vulcan (Buster Gallon), Spinning Cutter (Shadow X), Forceps Crush (Mega Ambler), Buffalo Moonsault (Buffalo Crush), Hammer Blaze (Phoenix Fire), Vulture Wings (Fleta Z). Not only that, there are still default moves from this weapon card such as Edge Acceleration to increase its speed, Lightning Overstrike to bind opponents helplessly and hit him, and Infinity Punish to shoot four powerful energy beams at the enemy",
     "category": "Robot",
     "language": "en"
@@ -1245,7 +1265,7 @@
     "Image": "https://static.wikia.nocookie.net/metal-cardbot/images/2/29/Blue_Cop_Trinity_profile.png/revision/latest?cb=20250320121030",
     "Url_Video": "https://www.youtube.com/watch?v=PO_5KInUiJQ",
     "caption": " (in Metal Cardbot Season 2)",
-    "Description": "Blue Cop Trinity is an upgraded version of Ultimate Blue Cop, equipped with additional extensions such as Blue Command and Blue Loader, making Blue Cop Trinity mechanically more similar to Blastinel, which is equipped with extensions. Blue Cop Trinity was born from the forbidden power derived from the bullet's Metal Respirator. Blue Cop Trinity was shown at least four times in season 2 before being abandoned due to Blue Cop being infected by the beast virus, which made it no longer useful.",
+    "Description": "Blue Cop Trinity was an upgraded version of Ultimate Blue Cop, equipped with additional extensions such as Blue Command and Blue Loader, making Blue Cop Trinity mechanically more similar to Blastinel, which is equipped with extensions. Blue Cop Trinity was born from the forbidden power derived from the bullet's Metal Respirator. Blue Cop Trinity was shown at least four times in season 2 before being abandoned due to Blue Cop being infected by the beast virus, which made it no longer useful.",
     "Description1": "The default weaponry is only Vulcans. As for the weapon cards, Blue Gun Sword with moves such as Star Rising Cannon to generate and fire a powerful energy beam or shot at enemies, Supernova Shield to act as a protective shield, and Galaxies Puisher to produce a powerful slash with the help of forbidden power.",
     "category": "Robot",
     "language": "en"
