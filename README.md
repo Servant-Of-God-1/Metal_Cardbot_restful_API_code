@@ -236,4 +236,4 @@ java {
 
 
 ***Thank you to the Metal Cardbot fandom wiki for providing information about Metal Cardbot as a resource🙏. thank you also to those of you who have used my API🙏.
-I apologize if this API I created is still not perfect in your opinion🙏 and i apologize for making a ready-to-use version due to limited funds to deploy it🙏.***
+I apologize if this API I created is still not perfect in your opinion🙏 and i apologize for not making a ready-to-use version due to limited funds to deploy it🙏.***
