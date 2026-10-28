@@ -212,7 +212,7 @@ languageVersion = JavaLanguageVersion.of(Java machine on your computer)
 ### 8. Check your IPv4 address by searching through the command prompt by typing ipconfig.
 ### 9. Copy the IPv4 address from the command prompt to display information from the Public API.
 ### 10. copy and edit this link to adjust the network-based hosting location
-```http://http://[your IPV4 addres]:8080/[endpoint]```
+```http://[your IPV4 addres]:8080/[endpoint]```
 
 ***Warning: If you are using the local network option, then try to use a WiFi hotspot-based network from a cellphone that supports turning on the hotspot + WiFi simultaneously to avoid IPV4 changes due to the device restarting. Or maybe try to create a Static IP network by following the steps in the video link below***
 ```
