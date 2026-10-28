@@ -1,12 +1,12 @@
 # METAL CARDBOT Restful API Code (read only) 🤖
 
 <p align="center">
+      <img src="https://static.wikia.nocookie.net/metal-cardbot/images/1/16/Slider_image_8.jpg/revision/latest/scale-to-width-down/800?cb=20260528020503" alt="Metal Cardbot (season 1)" width="100%" />
+  <b>Metal Cardbot (season 1)</b>
   <img src="https://static.wikia.nocookie.net/metal-cardbot/images/e/ef/Slider_image_1.jpg/revision/latest?cb=20260528020307" alt="Metal Cardbot S (season 2)" width="100%" />
   <b>Metal Cardbot S (season 2)</b>
   <img src="https://static.wikia.nocookie.net/metal-cardbot/images/a/ae/Slider_image_3.jpg/revision/latest/scale-to-width-down/800?cb=20260528231155" alt="Metal Cardbot W (season 3)" width="100%" />
   <b>Metal Cardbot W (season 3)</b>
-  <img src="https://static.wikia.nocookie.net/metal-cardbot/images/1/16/Slider_image_8.jpg/revision/latest/scale-to-width-down/800?cb=20260528020503" alt="Metal Cardbot (season 1)" width="100%" />
-  <b>Metal Cardbot (season 1)</b>
 </p>
 
 ***I'm using Information from*** 
@@ -211,6 +211,8 @@ languageVersion = JavaLanguageVersion.of(Java machine on your computer)
 ### 7. Connection your laptop and your device with the same Connection (like same WI-FI or same connection)
 ### 8. Check your IPv4 address by searching through the command prompt by typing ipconfig.
 ### 9. Copy the IPv4 address from the command prompt to display information from the Public API.
+### 10. copy and edit this link to adjust the network-based hosting location
+```http://http://[your IPV4 addres]/[endpoint]```
 
 ***Warning: If you are using the local network option, then try to use a WiFi hotspot-based network from a cellphone that supports turning on the hotspot + WiFi simultaneously to avoid IPV4 changes due to the device restarting. Or maybe try to create a Static IP network by following the steps in the video link below***
 ```
